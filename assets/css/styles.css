@@ -246,7 +246,7 @@ body{
     min-width:180px;
     visibility: hidden;
     opacity:0;
-    transition: opacity .18s ease, visibility .18s ease;
+    transition: opacity .18s ease, visibility .18s;
   }
 
   .nav-links[data-visible="true"]{
